@@ -24,10 +24,10 @@
         "max_description_length": 500
     },
     "discord_client": {
-        "id": "",
+        "id": "868927900227878933",
         "secret": "",
-        "token": "",
-        "prefix": ""
+        "token": "OTQyMzYyNjU2NjYzMzA2MzAw.YgjZnQ.Wr4eVCBCfHawMhrvvfxIH19uMYc",
+        "prefix": "+"
     },
     "web": {
         "domain_with_protocol": "",
